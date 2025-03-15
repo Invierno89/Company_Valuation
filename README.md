@@ -5,3 +5,5 @@
 ### The file tikr_selenium.ipynb is an attempt to perform webscraping on TIKR's website and extract financial statements.
 
 ### The folder Visualization_Examples contains PowerBI visualisations that make it easier for the retail investor to value companies and explore the most important metrics. 
+
+### Link to NotebookLM: https://notebooklm.google.com/
